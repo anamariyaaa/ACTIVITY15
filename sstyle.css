@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-image: url(wp5698864.jpg);
+  background-size: cover;
+}
+
+h1 {
+  color: #d1a4a4;
+  font-size: 115px;
+  font-family: "Madimi One", sans-serif;
+  text-shadow: 6px 9px #ad8b8b;
+}
+
+textarea {
+  width: 763px;
+  height: 111px;
+  border-radius: 15px;
+  margin: 3% auto;
+  display: block;
+  background-color: #ffcaf4;
+  font-size: 25px;
+  font-family: "Kode Mono", monospace;
+}
+
+button {
+  padding: 20px 25px;
+  border-radius: 5px;
+  box-shadow: 7px 5px gray;
+  background-color: #d1a4a4;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  margin: 10px;
+}
